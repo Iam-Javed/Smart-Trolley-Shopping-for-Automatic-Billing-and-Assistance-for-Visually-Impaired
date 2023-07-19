@@ -1,6 +1,6 @@
 # Smart Cart for Automatic Billing and Assistance for Visually Impaired
 
-![Smart Cart Image](link_to_image)
+![Smart Cart Image](image)
 
 ## Introduction
 
