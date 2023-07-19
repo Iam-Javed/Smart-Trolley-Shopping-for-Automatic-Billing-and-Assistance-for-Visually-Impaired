@@ -1,6 +1,6 @@
 # Smart Cart for Automatic Billing and Assistance for Visually Impaired
 
-![Smart Cart Image](image.jpg)
+<img src="image.jpg" alt="project image">
 
 ## Introduction
 
