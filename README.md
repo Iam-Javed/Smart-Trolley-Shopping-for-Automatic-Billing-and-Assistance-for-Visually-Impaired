@@ -1,6 +1,8 @@
+![MasterHead](image.jpg)
+
+
 # Smart Cart for Automatic Billing and Assistance for Visually Impaired
 
-<img src="image.jpg" alt="project image">
 
 ## Introduction
 
