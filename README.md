@@ -76,6 +76,5 @@ We would like to express our gratitude to [name of organization or individuals] 
 
 ---
 
-By [Your Name]
-
-For any inquiries, please contact [Your Email Address].
+By Shaik Javedbasha
+or any inquiries, please contact skjavedbasha12@gmail.com.
